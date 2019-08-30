@@ -18,10 +18,10 @@ The experiments results on these datasets are as follows:
 MUTAG:
 The accuracy of each folder:
 
-{0: 0.85, 1: 0.9, 2: 1.0, 3: 0.8947368421052632, 4: 0.8947368421052632, 5: 0.9444444444444444, 6: 0.9444444444444444, 7: 0.9444444444444444, 8: 0.9444444444444444, 9: 0.9444444444444444}
+{0: 0.85, 1: 0.9, 2: 0.95, 3: 0.9473684210526315, 4: 0.8947368421052632, 5: 1.0, 6: 0.9444444444444444, 7: 0.9444444444444444, 8: 1.0, 9: 0.9444444444444444}
 
-mean:
-std:
+mean:0.9375438596491229
+std:0.04370581208082047
 
 PTC:
 
@@ -254,10 +254,13 @@ When we run the cascade2vec in the APS citation network dataset provided by APS.
 
 
 
-Acknowledgement:
-Beyond acknowledgements for funds.
-We also thanks for Prof. Xifeng Yan in UCSB for giving help in the research. His link:
-We thank for Dr. Tipkif in for providing insights on improving graph neural networks. 
-We thank for Dr. in  for helping us in high efficient implementation in sparse graph and instructions, correction.
-We thank for Shunfeng in ShangTang Tech. for his kind help.
-Thanks for Dr. and Prof. Xiaohui Xie in UCI for helping us analyze the algorithm.
+# Acknowledgement:
+In addition to the funds that support the study, we are also very grateful to the following researchers.
+
+We thank Prof. Xifeng Yan in UCSB for his help in the research.
+
+We are grateful to Shunfeng Zhou from SenseTime Tech. for helping us implement efficiency graph neural networks on sparse graphs.
+
+We thank Dr. Matthias Fey for providing insights on improving graph neural networks. 
+
+Thanks for Dr. Martin Liu in UCI for his help in algorithm anlaysis.
