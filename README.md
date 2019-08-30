@@ -1,5 +1,7 @@
-# Cascade2vec
-This is the link for codes and data used in the paper <Cascade2vec: Learning Dynamic Cascade Representation by Recurrent Graph Neural Networks.>. The paper is still under review. The codes will be fully released as soon as possible after the paper is published.
+# Cascade Preidction
+This is the link for codes and data used in the paper <Cascade2vec: Learning Dynamic Cascade Representation by Recurrent Graph Neural Networks.>. The paper is still under review. The codes will be fully released as soon as possible after the paper is published. The paper targets on cascade prediction, one of the fundemental problems in information diffusion.
+
+
 
 # Cascade Example
 What is a cascade?
