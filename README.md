@@ -186,7 +186,118 @@ When T is set to 2 hour, the result looks like this:
 <details>
 <summary>Results when T=2 hour </summary>
 <pre><code>
-<div>0</div><div>average train loss 4.6583</div><div>median train loss 1.2830</div><div>r2score train 0.1298</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.4496</div><div>median test loss 0.7771</div><div>r2score test 0.5228</div><div>1</div><div>average train loss 2.3603</div><div>median train loss 0.7230</div><div>r2score train 0.5381</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.3273</div><div>median test loss 0.7151</div><div>r2score test 0.5433</div><div>2</div><div>average train loss 2.2610</div><div>median train loss 0.6689</div><div>r2score train 0.5552</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.2859</div><div>median test loss 0.6834</div><div>r2score test 0.5527</div><div>3</div><div>average train loss 2.2054</div><div>median train loss 0.6440</div><div>r2score train 0.5661</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.2404</div><div>median test loss 0.6598</div><div>r2score test 0.5615</div><div>4</div><div>average train loss 2.1663</div><div>median train loss 0.6297</div><div>r2score train 0.5742</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.1774</div><div>median test loss 0.6207</div><div>r2score test 0.5699</div><div>5</div><div>average train loss 2.1317</div><div>median train loss 0.6138</div><div>r2score train 0.5814</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.1516</div><div>median test loss 0.6173</div><div>r2score test 0.5742</div><div>6</div><div>average train loss 2.1049</div><div>median train loss 0.6027</div><div>r2score train 0.5873</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.1302</div><div>median test loss 0.6084</div><div>r2score test 0.5822</div><div>7</div><div>average train loss 2.0848</div><div>median train loss 0.5953</div><div>r2score train 0.5918</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.1190</div><div>median test loss 0.6123</div><div>r2score test 0.5842</div><div>8</div><div>average train loss 2.0666</div><div>median train loss 0.5868</div><div>r2score train 0.5961</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0947</div><div>median test loss 0.6060</div><div>r2score test 0.5886</div><div>9</div><div>average train loss 2.0496</div><div>median train loss 0.5814</div><div>r2score train 0.5992</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.1081</div><div>median test loss 0.6098</div><div>r2score test 0.5856</div><div>10</div><div>average train loss 2.0330</div><div>median train loss 0.5803</div><div>r2score train 0.6024</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0889</div><div>median test loss 0.5950</div><div>r2score test 0.5897</div><div>11</div><div>average train loss 2.0180</div><div>median train loss 0.5717</div><div>r2score train 0.6056</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0889</div><div>median test loss 0.5929</div><div>r2score test 0.5900</div><div>12</div><div>average train loss 2.0017</div><div>median train loss 0.5692</div><div>r2score train 0.6084</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0705</div><div>median test loss 0.5922</div><div>r2score test 0.5934</div><div>13</div><div>average train loss 1.9868</div><div>median train loss 0.5647</div><div>r2score train 0.6118</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0307</div><div>median test loss 0.5823</div><div>r2score test 0.6030</div><div>14</div><div>average train loss 1.9768</div><div>median train loss 0.5627</div><div>r2score train 0.6136</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0464</div><div>median test loss 0.5795</div><div>r2score test 0.5997</div><div>15</div><div>average train loss 1.9590</div><div>median train loss 0.5601</div><div>r2score train 0.6173</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0402</div><div>median test loss 0.5708</div><div>r2score test 0.5990</div><div>16</div><div>average train loss 1.9472</div><div>median train loss 0.5577</div><div>r2score train 0.6195</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0195</div><div>median test loss 0.5724</div><div>r2score test 0.6044</div><div>17</div><div>average train loss 1.9349</div><div>median train loss 0.5517</div><div>r2score train 0.6215</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0108</div><div>median test loss 0.5603</div><div>r2score test 0.6064</div><div>18</div><div>average train loss 1.9252</div><div>median train loss 0.5526</div><div>r2score train 0.6234</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 1.9995</div><div>median test loss 0.5625</div><div>r2score test 0.6080</div><div>19</div><div>average train loss 1.9112</div><div>median train loss 0.5489</div><div>r2score train 0.6260</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0159</div><div>median test loss 0.5619</div><div>r2score test 0.6034</div><div>20</div><div>average train loss 1.8998</div><div>median train loss 0.5466</div><div>r2score train 0.6284</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 2.0060</div><div>median test loss 0.5544</div><div>r2score test 0.6067</div><div>21</div><div>average train loss 1.8871</div><div>median train loss 0.5437</div><div>r2score train 0.6304</div><div>total test batch: 118.53125&nbsp;</div><div>average test loss 1.9950</div><div>median test loss 0.5546</div><div>r2score test 0.6092</div><div><br /></div><div>......</div><div><br /></div>
+
+<pre style="box-sizing: border-box; overflow: auto; font-family: monospace; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; background-color: transparent; border: 0px; border-radius: 0px; vertical-align: baseline; text-size-adjust: auto;">epoch 0
+average train loss 4.6583
+median train loss 1.2830
+average test loss 2.4496
+median test loss 0.7771
+epoch 1
+average train loss 2.3603
+median train loss 0.7230
+average test loss 2.3273
+median test loss 0.7151
+epoch 2
+average train loss 2.2610
+median train loss 0.6689
+average test loss 2.2859
+median test loss 0.6834
+epoch 3
+average train loss 2.2054
+median train loss 0.6440
+average test loss 2.2404
+median test loss 0.6598
+epoch 4
+average train loss 2.1663
+median train loss 0.6297
+average test loss 2.1774
+median test loss 0.6207
+epoch 5
+average train loss 2.1317
+median train loss 0.6138
+average test loss 2.1516
+median test loss 0.6173
+epoch 6
+average train loss 2.1049
+median train loss 0.6027
+average test loss 2.1302
+median test loss 0.6084
+epoch 7
+average train loss 2.0848
+median train loss 0.5953
+average test loss 2.1190
+median test loss 0.6123
+epoch 8
+average train loss 2.0666
+median train loss 0.5868
+average test loss 2.0947
+median test loss 0.6060
+epoch 9
+average train loss 2.0496
+median train loss 0.5814
+average test loss 2.1081
+median test loss 0.6098
+epoch 10
+average train loss 2.0330
+median train loss 0.5803
+average test loss 2.0889
+median test loss 0.5950
+epoch 11
+average train loss 2.0180
+median train loss 0.5717
+average test loss 2.0889
+median test loss 0.5929
+epoch 12
+average train loss 2.0017
+median train loss 0.5692
+average test loss 2.0705
+median test loss 0.5922
+epoch 13
+average train loss 1.9868
+median train loss 0.5647
+average test loss 2.0307
+median test loss 0.5823
+epoch 14
+average train loss 1.9768
+median train loss 0.5627
+average test loss 2.0464
+median test loss 0.5795
+epoch 15
+average train loss 1.9590
+median train loss 0.5601
+average test loss 2.0402
+median test loss 0.5708
+epoch 16
+average train loss 1.9472
+median train loss 0.5577
+average test loss 2.0195
+median test loss 0.5724
+epoch 17
+average train loss 1.9349
+median train loss 0.5517
+average test loss 2.0108
+median test loss 0.5603
+epoch 18
+average train loss 1.9252
+median train loss 0.5526
+average test loss 1.9995
+median test loss 0.5625
+epoch 19
+average train loss 1.9112
+median train loss 0.5489
+average test loss 2.0159
+median test loss 0.5619
+epoch 20
+average train loss 1.8998
+median train loss 0.5466
+average test loss 2.0060
+median test loss 0.5544
+epoch 21
+average train loss 1.8871
+median train loss 0.5437
+average test loss 1.9950
+median test loss 0.5546</pre>
+
 </code></pre>
 </details>
 
@@ -205,7 +316,96 @@ When T=5 years, the results are as follows:
 <summary>Results when T= 5 years in citation network </summary>
 <pre><code>
 
-<div><br /></div><div>0</div><div>average train loss 3.5350</div><div>median train loss 1.3471</div><div>r2score train -0.3395</div><div>average test loss 2.0294</div><div>median train loss 0.8736</div><div>r2score train 0.1777</div><div>1</div><div>average train loss 1.7227</div><div>median train loss 0.7377</div><div>r2score train 0.3078</div><div>average test loss 1.5789</div><div>median train loss 0.6473</div><div>r2score train 0.3602</div><div>2</div><div>average train loss 1.5396</div><div>median train loss 0.6704</div><div>r2score train 0.3813</div><div>total test batch: 68.828125&nbsp;</div><div>average test loss 1.5200</div><div>median train loss 0.6141</div><div>r2score train 0.3841</div><div>3</div><div>average train loss 1.4918</div><div>median train loss 0.6564</div><div>r2score train 0.4005</div><div>average test loss 1.4904</div><div>median train loss 0.6092</div><div>r2score train 0.3961</div><div>4</div><div>average train loss 1.4689</div><div>median train loss 0.6438</div><div>r2score train 0.4097</div><div>average test loss 1.4547</div><div>median train loss 0.5974</div><div>r2score train 0.4106</div><div>5</div><div>average train loss 1.4546</div><div>median train loss 0.6385</div><div>r2score train 0.4155</div><div>average test loss 1.4243</div><div>median train loss 0.5967</div><div>r2score train 0.4229</div><div>6</div><div>average train loss 1.4423</div><div>median train loss 0.6347</div><div>r2score train 0.4206</div><div>average test loss 1.4201</div><div>median train loss 0.5901</div><div>r2score train 0.4245</div><div>7</div><div>average train loss 1.4341</div><div>median train loss 0.6307</div><div>r2score train 0.4239</div><div>average test loss 1.4172</div><div>median train loss 0.5828</div><div>r2score train 0.4257</div><div>8</div><div>average train loss 1.4272</div><div>median train loss 0.6316</div><div>r2score train 0.4267</div><div>average test loss 1.4133</div><div>median train loss 0.5747</div><div>r2score train 0.4273</div><div>9</div><div>average train loss 1.4209</div><div>median train loss 0.6276</div><div>r2score train 0.4292</div><div>average test loss 1.4146</div><div>median train loss 0.5860</div><div>r2score train 0.4268</div><div>10</div><div>average train loss 1.4167</div><div>median train loss 0.6275</div><div>r2score train 0.4309</div><div>average test loss 1.4159</div><div>median train loss 0.5868</div><div>r2score train 0.4263</div><div>11</div><div>average train loss 1.4119</div><div>median train loss 0.6222</div><div>r2score train 0.4327</div><div>average test loss 1.4122</div><div>median train loss 0.5864</div><div>r2score train 0.4278</div><div>12</div><div>average train loss 1.4071</div><div>median train loss 0.6208</div><div>r2score train 0.4346</div><div>average test loss 1.4090</div><div>median train loss 0.5817</div><div>r2score train 0.4291</div><div>13</div><div>average train loss 1.4034</div><div>median train loss 0.6190</div><div>r2score train 0.4361</div><div>average test loss 1.4095</div><div>median train loss 0.5786</div><div>r2score train 0.4289</div><div>14</div><div>average train loss 1.3990</div><div>median train loss 0.6196</div><div>r2score train 0.4378</div><div>average test loss 1.4117</div><div>median train loss 0.5842</div><div>r2score train 0.4280</div><div>15</div><div>average train loss 1.3954</div><div>median train loss 0.6152</div><div>r2score train 0.4393</div><div>average test loss 1.4109</div><div>median train loss 0.5866</div><div>r2score train 0.4283</div><div>16</div><div>average train loss 1.3917</div><div>median train loss 0.6151</div><div>r2score train 0.4408</div><div>average test loss 1.4100</div><div>median train loss 0.5840</div><div>r2score train 0.4287</div><div>17</div><div>average train loss 1.3880</div><div>median train loss 0.6140</div><div>r2score train 0.4422</div><div>average test loss 1.4090</div><div>median train loss 0.5930</div><div>r2score train 0.4291</div><div><br /></div>
+<pre style="box-sizing: border-box; overflow: auto; font-family: monospace; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; background-color: transparent; border: 0px; border-radius: 0px; vertical-align: baseline; text-size-adjust: auto;">epoch 0
+average train loss 3.5350
+median train loss 1.3471
+average test loss 2.0294
+median train loss 0.8736
+epoch 1
+average train loss 1.7227
+median train loss 0.7377
+average test loss 1.5789
+median train loss 0.6473
+epoch 2
+average train loss 1.5396
+median train loss 0.6704
+average test loss 1.5200
+median train loss 0.6141
+epoch 3
+average train loss 1.4918
+median train loss 0.6564
+average test loss 1.4904
+median train loss 0.6092
+epoch 4
+average train loss 1.4689
+median train loss 0.6438
+average test loss 1.4547
+median train loss 0.5974
+epoch 5
+average train loss 1.4546
+median train loss 0.6385
+average test loss 1.4243
+median train loss 0.5967
+epoch 6
+average train loss 1.4423
+median train loss 0.6347
+average test loss 1.4201
+median train loss 0.5901
+epoch 7
+average train loss 1.4341
+median train loss 0.6307
+average test loss 1.4172
+median train loss 0.5828
+epoch 8
+average train loss 1.4272
+median train loss 0.6316
+average test loss 1.4133
+median train loss 0.5747
+epoch 9
+average train loss 1.4209
+median train loss 0.6276
+average test loss 1.4146
+median train loss 0.5860
+epoch 10
+average train loss 1.4167
+median train loss 0.6275
+average test loss 1.4159
+median train loss 0.5868
+epoch 11
+average train loss 1.4119
+median train loss 0.6222
+average test loss 1.4122
+median train loss 0.5864
+epoch 12
+average train loss 1.4071
+median train loss 0.6208
+average test loss 1.4090
+median train loss 0.5817
+epoch 13
+average train loss 1.4034
+median train loss 0.6190
+average test loss 1.4095
+median train loss 0.5786
+epoch 14
+average train loss 1.3990
+median train loss 0.6196
+average test loss 1.4117
+median train loss 0.5842
+epoch 15
+average train loss 1.3954
+median train loss 0.6152
+average test loss 1.4109
+median train loss 0.5866
+epoch 16
+average train loss 1.3917
+median train loss 0.6151
+average test loss 1.4100
+median train loss 0.5840
+epoch 17
+average train loss 1.3880
+median train loss 0.6140
+average test loss 1.4090
+median train loss 0.5930</pre>
 
 </code></pre>
 </details>
@@ -216,7 +416,100 @@ When T=7 years, the results are as follows:
 <summary>Results when T= 7 years in citation network </summary>
 <pre><code>
 
-<p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">0</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 3.0474</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 1.2860</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train -0.1125</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.9036</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.9087</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.3027</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">1</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.5922</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.7147</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.4187</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3999</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.6246</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.4872</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">2</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.4265</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.6547</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.4792</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3661</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5977</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.4996</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">3</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3900</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.6438</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.4925</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3553</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5938</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5035</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">4</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3723</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.6313</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.4989</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3604</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5840</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5016</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">5</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3591</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.6203</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5037</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3478</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5681</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5063</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">6</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3465</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.6169</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5083</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3488</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5688</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5059</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">7</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3344</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.6067</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5126</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3600</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5842</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5018</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">8</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3363</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.6038</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5119</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3407</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5629</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5089</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">9</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3221</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5985</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5171</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3361</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5667</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5106</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">10</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3168</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5943</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5189</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3256</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5674</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5144</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">11</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3113</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5892</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5209</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3251</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5629</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5146</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">12</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3071</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5869</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5224</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3239</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5575</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5150</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">13</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.3015</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5843</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5246</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3113</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5570</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5197</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">14</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.2983</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5831</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5256</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3154</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5586</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5182</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">15</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.2934</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5806</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5275</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3152</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5600</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5182</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">16</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">average train loss 1.2917</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5789</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5280</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3128</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5578</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5191</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">17</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average train loss 1.2890</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5774</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">r2score train 0.5292</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span style="-webkit-text-stroke-width: initial;">average test loss 1.3103</span></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Courier; -webkit-text-stroke-color: rgb(0, 0, 0); margin: 0px;"><span class="s1" style="font-kerning: none;">median train loss 0.5552</span></p><div><span class="s1" style="font-kerning: none;">r2score train 0.5199</span></div>
+<pre style="box-sizing: border-box; overflow: auto; font-family: monospace; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; background-color: transparent; border: 0px; border-radius: 0px; vertical-align: baseline; text-size-adjust: auto;"><pre style="box-sizing: border-box; overflow: auto; font-family: monospace; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; background-color: transparent; border: 0px; border-radius: 0px; vertical-align: baseline; text-size-adjust: auto;">epoch 0
+average train loss 3.0474
+median train loss 1.2860
+average test loss 1.9036
+median train loss 0.9087
+epoch 1
+average train loss 1.5922
+median train loss 0.7147
+average test loss 1.3999
+median train loss 0.6246
+epoch 2
+average train loss 1.4265
+median train loss 0.6547
+average test loss 1.3661
+median train loss 0.5977
+epoch 3
+average train loss 1.3900
+median train loss 0.6438
+average test loss 1.3553
+median train loss 0.5938
+epoch 4
+average train loss 1.3723
+median train loss 0.6313
+average test loss 1.3604
+median train loss 0.5840
+epoch 5
+average train loss 1.3591
+median train loss 0.6203
+average test loss 1.3478
+median train loss 0.5681
+epoch 6
+average train loss 1.3465
+median train loss 0.6169
+average test loss 1.3488
+median train loss 0.5688
+epoch 7
+average train loss 1.3344
+median train loss 0.6067
+average test loss 1.3600
+median train loss 0.5842
+epoch 8
+average train loss 1.3363
+median train loss 0.6038
+average test loss 1.3407
+median train loss 0.5629
+epoch 9
+average train loss 1.3221
+median train loss 0.5985
+average test loss 1.3361
+median train loss 0.5667
+epoch 10
+average train loss 1.3168
+median train loss 0.5943
+average test loss 1.3256
+median train loss 0.5674
+epoch 11
+average train loss 1.3113
+median train loss 0.5892
+average test loss 1.3251
+median train loss 0.5629
+epoch 12
+average train loss 1.3071
+median train loss 0.5869
+average test loss 1.3239
+median train loss 0.5575
+epoch 13
+average train loss 1.3015
+median train loss 0.5843
+average test loss 1.3113
+median train loss 0.5570
+epoch 14
+average train loss 1.2983
+median train loss 0.5831
+average test loss 1.3154
+median train loss 0.5586
+epoch 15
+average train loss 1.2934
+median train loss 0.5806
+average test loss 1.3152
+median train loss 0.5600
+epoch 16
+average train loss 1.2917
+median train loss 0.5789
+average test loss 1.3128
+median train loss 0.5578
+epoch 17
+average train loss 1.2890
+median train loss 0.5774
+average test loss 1.3103
+median train loss 0.5552</pre></pre><style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #000000; -webkit-text-stroke: #000000}
+span.s1 {font-kerning: none}
+</style>
+
 </code></pre>
 </details>
 
