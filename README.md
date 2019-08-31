@@ -72,11 +72,111 @@ T=1 represents the observation time is 1 hour.
 
 When T is set to 1 hour, the result looks like this:
 
+
 <details>
 <summary>Results when T=1 hour </summary>
 <pre><code>
 
-<div>0&nbsp;</div><div>average train loss 4.8758</div><div>median train loss 1.3386</div><div>r2score train 0.0107</div><div>average test loss 2.8691</div><div>median test loss 0.9733</div><div>r2score test 0.3917</div><div>1&nbsp;</div><div>average train loss 2.9229</div><div>median train loss 0.8689</div><div>r2score train 0.4069</div><div>average test loss 2.4599</div><div>median test loss 0.8198</div><div>r2score test 0.4784</div><div>2&nbsp;</div><div>average train loss 2.6231</div><div>median train loss 0.7962</div><div>r2score train 0.4678</div><div>average test loss 2.2960</div><div>median test loss 0.7010</div><div>r2score test 0.5045</div><div>3&nbsp;</div><div>average train loss 2.3933</div><div>median train loss 0.7215</div><div>r2score train 0.5080</div><div>average test loss 2.1476</div><div>median test loss 0.6715</div><div>r2score test 0.5282</div><div>4&nbsp;</div><div>average train loss 2.2379</div><div>median train loss 0.6713</div><div>r2score train 0.5322</div><div>average test loss 2.0935</div><div>median test loss 0.6796</div><div>r2score test 0.5402</div><div>5&nbsp;</div><div>average train loss 2.1241</div><div>median train loss 0.6101</div><div>r2score train 0.5545</div><div>average test loss 2.0858</div><div>median test loss 0.7025</div><div>r2score test 0.5418</div><div>6&nbsp;</div><div>average train loss 2.0639</div><div>median train loss 0.5935</div><div>r2score train 0.5642</div><div>average test loss 2.0528</div><div>median test loss 0.6494</div><div>r2score test 0.5491</div><div>7&nbsp;</div><div>average train loss 1.9872</div><div>median train loss 0.5380</div><div>r2score train 0.5774</div><div>average test loss 2.0514</div><div>median test loss 0.6606</div><div>r2score test 0.5328</div><div>8&nbsp;</div><div>average train loss 1.9295</div><div>median train loss 0.5655</div><div>r2score train 0.5899</div><div>average test loss 2.0459</div><div>median test loss 0.6322</div><div>r2score test 0.5508</div><div>9&nbsp;</div><div>average train loss 1.8665</div><div>median train loss 0.5614</div><div>r2score train 0.6016</div><div>average test loss 2.0905</div><div>median test loss 0.6440</div><div>r2score test 0.5407</div><div>10&nbsp;</div><div>average train loss 1.8226</div><div>median train loss 0.5436</div><div>r2score train 0.6109</div><div>average test loss 2.0527</div><div>median test loss 0.6685</div><div>r2score test 0.5490</div><div>11&nbsp;</div><div>average train loss 1.7725</div><div>median train loss 0.5369</div><div>r2score train 0.6202</div><div>average test loss 2.0919</div><div>median test loss 0.6718</div><div>r2score test 0.5404</div><div>12&nbsp;</div><div>average train loss 1.7443</div><div>median train loss 0.5170</div><div>r2score train 0.6238</div><div>average test loss 2.0549</div><div>median test loss 0.6213</div><div>r2score test 0.5485</div><div>13&nbsp;</div><div>average train loss 1.6918</div><div>median train loss 0.4971</div><div>r2score train 0.6338</div><div>average test loss 2.1149</div><div>median test loss 0.6520</div><div>r2score test 0.5353</div><div>14&nbsp;</div><div>average train loss 1.6498</div><div>median train loss 0.5133</div><div>r2score train 0.6502</div><div>average test loss 2.0606</div><div>median test loss 0.6487</div><div>r2score test 0.5472</div><div>15&nbsp;</div><div>average train loss 1.6119</div><div>median train loss 0.4789</div><div>r2score train 0.6571</div><div>average test loss 2.0513</div><div>median test loss 0.6791</div><div>r2score test 0.5493</div><div>16&nbsp;</div><div>average train loss 1.5770</div><div>median train loss 0.4720</div><div>r2score train 0.6645</div><div>average test loss 2.0377</div><div>median test loss 0.6126</div><div>r2score test 0.5438</div><div>17&nbsp;</div><div>average train loss 1.5369</div><div>median train loss 0.4179</div><div>r2score train 0.6730</div><div>average test loss 2.0484</div><div>median test loss 0.6330</div><div>r2score test 0.5235</div><div>18&nbsp;</div><div>average train loss 1.4985</div><div>median train loss 0.4149</div><div>r2score train 0.6790</div><div>average test loss 2.0545</div><div>median test loss 0.5850</div><div>r2score test 0.5568</div><div>19&nbsp;</div><div>average train loss 1.4762</div><div>median train loss 0.4145</div><div>r2score train 0.6768</div><div>average test loss 2.0448</div><div>median test loss 0.5788</div><div>r2score test 0.5667</div><div><br /></div><div>......</div><div><br /></div>
+<pre style="box-sizing: border-box; overflow: auto; font-family: monospace; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; background-color: transparent; border: 0px; border-radius: 0px; vertical-align: baseline; text-size-adjust: auto;">epoch 0
+average train loss 4.8758
+median train loss 1.3386
+average test loss 2.8691
+median test loss 0.9733
+epoch 1
+average train loss 2.9229
+median train loss 0.8689
+average test loss 2.4599
+median test loss 0.8198
+epoch 2
+average train loss 2.6231
+median train loss 0.7962
+average test loss 2.2960
+median test loss 0.7010
+epoch 3
+average train loss 2.3933
+median train loss 0.7215
+average test loss 2.1476
+median test loss 0.6715
+epoch 4
+average train loss 2.2379
+median train loss 0.6713
+average test loss 2.0935
+median test loss 0.6796
+epoch 5
+average train loss 2.1241
+median train loss 0.6101
+average test loss 2.0858
+median test loss 0.7025
+epoch 6
+average train loss 2.0639
+median train loss 0.5935
+average test loss 2.0528
+median test loss 0.6494
+epoch 7
+average train loss 1.9872
+median train loss 0.5380
+average test loss 2.0514
+median test loss 0.6606
+epoch 8
+average train loss 1.9295
+median train loss 0.5655
+average test loss 2.0459
+median test loss 0.6322
+epoch 9
+average train loss 1.8665
+median train loss 0.5614
+average test loss 2.0905
+median test loss 0.6440
+epoch 10
+average train loss 1.8226
+median train loss 0.5436
+average test loss 2.0527
+median test loss 0.6685
+epoch 11
+average train loss 1.7725
+median train loss 0.5369
+average test loss 2.0919
+median test loss 0.6718
+epoch 12
+average train loss 1.7443
+median train loss 0.5170
+average test loss 2.0549
+median test loss 0.6213
+epoch 13
+average train loss 1.6918
+median train loss 0.4971
+average test loss 2.1149
+median test loss 0.6520
+epoch 14
+average train loss 1.6498
+median train loss 0.5133
+average test loss 2.0606
+median test loss 0.6487
+epoch 15
+average train loss 1.6119
+median train loss 0.4789
+average test loss 2.0513
+median test loss 0.6791
+epoch 16
+average train loss 1.5770
+median train loss 0.4720
+average test loss 2.0377
+median test loss 0.6126
+epoch 17
+average train loss 1.5369
+median train loss 0.4179
+average test loss 2.0484
+median test loss 0.6330
+epoch 18
+average train loss 1.4985
+median train loss 0.4149
+average test loss 2.0545
+median test loss 0.5850
+epoch 19
+average train loss 1.4762
+median train loss 0.4145
+average test loss 2.0448
+median test loss 0.5788</pre>
 
 </code></pre>
 </details>
