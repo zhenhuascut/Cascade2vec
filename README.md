@@ -416,7 +416,7 @@ When T=7 years, the results are as follows:
 <summary>Results when T= 7 years in citation network </summary>
 <pre><code>
 
-<pre style="box-sizing: border-box; overflow: auto; font-family: monospace; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; background-color: transparent; border: 0px; border-radius: 0px; vertical-align: baseline; text-size-adjust: auto;"><pre style="box-sizing: border-box; overflow: auto; font-family: monospace; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; background-color: transparent; border: 0px; border-radius: 0px; vertical-align: baseline; text-size-adjust: auto;">epoch 0
+<pre style="box-sizing: border-box; overflow: auto; font-family: monospace; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; background-color: transparent; border: 0px; border-radius: 0px; vertical-align: baseline; text-size-adjust: auto;">epoch 0
 average train loss 3.0474
 median train loss 1.2860
 average test loss 1.9036
