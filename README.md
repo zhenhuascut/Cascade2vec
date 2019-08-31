@@ -505,10 +505,7 @@ epoch 17
 average train loss 1.2890
 median train loss 0.5774
 average test loss 1.3103
-median train loss 0.5552</pre></pre><style type="text/css">
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #000000; -webkit-text-stroke: #000000}
-span.s1 {font-kerning: none}
-</style>
+median train loss 0.5552</pre>
 
 </code></pre>
 </details>
