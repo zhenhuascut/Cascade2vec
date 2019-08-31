@@ -15,7 +15,7 @@ The results between the GPN and baselines are as follows:
 
 for example:
 ```
-run the main.py --dataset 'MUTAG'
+run the main_gpn.py --dataset 'MUTAG'
 ```
 The datasets can be chosen from ['COLLAB', 'NCI1', 'MUTAG', 'PTC', 'PROTEINS', 'IMDB-M', 'IMDB']
 
@@ -66,7 +66,7 @@ The results may vary slightly.
 When we run the cascade2vec in the Microblog network dataset provided by Prof. Shen in DeepHawkes CIKM'17.
 Using the following command: 
 ```
-python cascade_dynamic_gnnlstm.py --T 1 --dataset=microblog
+python cascade_dynamic_main.py --T 1 --dataset=microblog
 ```
 T=1 represents the observation time is 1 hour.
 
@@ -307,7 +307,7 @@ Note that the median loss not always decreases with MSE.
 When we run the cascade2vec in the APS citation network dataset provided by APS.
 Using the following codes:
 ```
-python cascade_dynamic_gnnlstm.py --T 5 --dataset=citation
+python cascade_dynamic_main.py --T 5 --dataset=citation
 ```
 T=5 represents 5 years when the dataset is set to the APS citation network.
 
