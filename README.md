@@ -513,7 +513,7 @@ median train loss 0.5552</pre>
 The results can be a little different due to parameters initialization.
 
 # Model Parameters
-The model parameters of Cascade2vec when batch_size=32 is around 44,000 when T=1 hour in the Microblog network dataset. However, the number of parameters of the compared methods DeepCas and DeepHawkes are 58.5 million and 69.5 million, respectively, since they have to learn a representation vector for each node.
+The model parameters of Cascade2vec when batch_size=32 is around 44,000 when T=1 hour in the Microblog network dataset. However, the number of parameters of the compared methods DeepCas and DeepHawkes are 58.5 million and 69.5 million, respectively, since they have to learn a representation vector for each node. The number of users in the datasets is of millions.
 
 # Requirements:
 <div>six==1.12.0</div><div>networkx==2.0</div><div>torch==1.1.0</div><div>tensorflow==1.13.1</div><div>numpy==1.16.4</div><div>typing==3.6.2</div><div>scipy==1.2.1</div><div>tqdm==4.32.1</div><div>matplotlib==2.1.0</div><div>Keras==2.2.4</div><div>torch_geometric==1.2.0</div><div>scikit_learn==0.21.3</div>
