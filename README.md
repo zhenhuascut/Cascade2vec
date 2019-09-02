@@ -15,7 +15,7 @@ The results between the GPN and baselines are as follows:
 
 for example:
 ```
-run the main_gpn.py --dataset 'MUTAG'
+python the main_gpn.py --dataset 'MUTAG'
 ```
 The datasets can be chosen from ['COLLAB', 'NCI1', 'MUTAG', 'PTC', 'PROTEINS', 'IMDB-M', 'IMDB']
 
