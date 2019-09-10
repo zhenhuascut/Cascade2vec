@@ -8,6 +8,22 @@ This is the link for codes and data used in the paper <Cascade2vec: Learning Dyn
 What is a cascade?
 A cascade is also called information diffusion/dissemination networks. It records how information propagates between people. Examples of full cascades can be seen in the links https://github.com/zhenhuascut/diffusion-data.
 
+# DataSet
+## Sina Weibo Microblog Network 
+The Microblog network dataset is used in our paper. It contains 119,313 messages in June 1, 2016. Each line contains the information of a certain message, the format of which is:
+<message_id>\tab<user_id>\tab<publish_time>\tab<retweet_number>\tab<retweets>
+<message_id>:     the unique id of each message, ranging from 1 to 119,313.
+<root_user_id>:   the unique id of root user. The user id ranges from 1 to 6,738,040.
+<publish_time>:   the publish time of this message, recorded as unix timestamp.
+<retweet_number>: the total number of retweets of this message within 24 hours.
+<retweets>:       the retweets of this message, each retweet is split by " ". Within each retweet, it records 
+the entile path for this retweet, the format of which is <user1>/<user2>/......<user n>:<retweet_time>.
+
+The dataset is from Prof. Shen, link https://github.com/CaoQi92/DeepHawkes
+
+## APS Citation Network
+The dataset includes the citation relationship between papers from 1893 and 2017 provided by American Physical Society (APS). The papers from 1893 to 1997 are selected to build cascades so that each of the papers is allowed to develop for at least 20 years. You are quired to send an email to the APS commit to get the dataset.
+
 # Graph Perception Network
 
 In the paper, we propose a new graph neural network called graph perception network (GPN), which achieves the state-of-the-art performance in graph classification tasks. 
