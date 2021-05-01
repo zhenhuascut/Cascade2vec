@@ -1,4 +1,6 @@
 # Cascade Preidction
+
+Please refer the link https://github.com/zhenhuascut/Cas2vec.
 This is the link for codes and data used in the paper <Cascade2vec: Learning Dynamic Cascade Representation by Recurrent Graph Neural Networks.>. Since the paper is still under review, the codes will be fully released as soon as possible after the paper is published. The paper targets on cascade prediction, one of the fundemental problems in information diffusion. The problem is described in the following picture. 
 
 <img src="problem.png" height="354px" width="522px" align=center>
